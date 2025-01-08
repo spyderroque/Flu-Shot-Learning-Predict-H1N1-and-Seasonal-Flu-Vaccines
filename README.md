@@ -6,3 +6,6 @@ I built here multiple Boosted Tree models and tried out the obsolete Sci-kit Opt
 At least in this case the Sci-Kit Optimizer delivered better results.
 
 Also, I experimented here with the new capabilities of Polars.
+
+The measured metric is AUC-ROC
+### Best Model achived 0.8605. Leading solution by Inoddy achieves 0.8658. 
